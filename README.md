@@ -1,8 +1,3 @@
-# Project Documentation for Interactive Platform Development
-
-## Project Title: Interactive Platform for Medical Students
-
----
 
 ## Project Overview
 The project focuses on creating a dynamic and interactive platform to support medical students in their exam preparation. It incorporates features to enhance learning, self-assessment, and personalized user experiences tailored to individual needs.
